@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <img style="height: 200px;" alt="docker" src="./assets/docker.jpeg" />
-  <h1>hello docker!!!</h1>
+  <h1>om my docker!!!</h1>
 </template>
 
 <style>
